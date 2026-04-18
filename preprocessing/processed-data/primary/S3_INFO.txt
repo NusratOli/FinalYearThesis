@@ -1,0 +1,11 @@
+Average SNR: -2.31 dB
+
+Interpolation used?: True
+Interpolated channels: ['P8', 'O1', 'AF3']
+Keep ratio before interpolation: 0.43
+Keep ratio after  interpolation: 0.56
+Final channel count: 14
+
+Feature shape: (52, 70)
+
+Dropped epochs: 41 out of 93

@@ -1,0 +1,11 @@
+Average SNR: 5.68
+
+Interpolation used?: False
+Interpolated channels: None
+Keep ratio before interpolation: 0.85
+Keep ratio after  interpolation: 0.85
+Final channel count: 14
+
+Feature shape: (77, 70)
+
+Dropped epochs: 15 out of 92
